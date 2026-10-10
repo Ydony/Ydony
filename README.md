@@ -17,7 +17,9 @@ A personal job radar: finds English-friendly roles in Switzerland and the Nether
 **Status:** live and open for public sign-up
 
 <!-- progress:job-hunt:start -->
-x
+![progress](https://img.shields.io/badge/progress-91%25-2ea44f)
+
+`▓▓▓▓▓▓▓▓▓░ 91% (87/96 tasks)`
 <!-- progress:job-hunt:end -->
 
 ### [PM AI System](https://github.com/Ydony/pm-ai-system-showcase)
@@ -25,7 +27,9 @@ An AI delivery team that plans, builds and reviews software tasks on its own, wh
 **Status:** in daily use on all of my projects
 
 <!-- progress:pm-ai-system:start -->
-x
+![progress](https://img.shields.io/badge/progress-65%25-2ea44f)
+
+`▓▓▓▓▓▓░░░░ 65% (48/74 tasks)`
 <!-- progress:pm-ai-system:end -->
 
 ### [Vehicle Transfer](https://github.com/Ydony/vehicle-transfer-showcase)
@@ -33,7 +37,9 @@ A marketplace that connects companies who need vehicles moved with verified driv
 **Status:** working prototype
 
 <!-- progress:vehicle-transfer:start -->
-x
+![progress](https://img.shields.io/badge/progress-63%25-2ea44f)
+
+`▓▓▓▓▓▓░░░░ 63% (17/27 tasks)`
 <!-- progress:vehicle-transfer:end -->
 
 ### [Amsterdam Cycle Map](https://github.com/Ydony/amsterdam-cycle-map-showcase)
@@ -41,5 +47,7 @@ A phone app for cycling around Amsterdam: compare bike routes, then follow clear
 **Status:** final ride testing before release
 
 <!-- progress:amsterdam-cycle-map:start -->
-x
+![progress](https://img.shields.io/badge/progress-71%25-2ea44f)
+
+`▓▓▓▓▓▓▓░░░ 71% (15/21 tasks)`
 <!-- progress:amsterdam-cycle-map:end -->
