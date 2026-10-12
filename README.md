@@ -7,9 +7,9 @@ Turns an interior design into a photo-like picture of the finished room, then le
 **Status:** working prototype
 
 <!-- progress:interior-ai-visualisation:start -->
-![progress](https://img.shields.io/badge/progress-57%25-2ea44f)
+![progress](https://img.shields.io/badge/progress-63%25-2ea44f)
 
-`▓▓▓▓▓▓░░░░ 57% (24/42 tasks)`
+`▓▓▓▓▓▓░░░░ 63% (51/81 tasks)`
 <!-- progress:interior-ai-visualisation:end -->
 
 ### [Job Hunt](https://github.com/Ydony/job-hunt-showcase)
@@ -17,9 +17,9 @@ A personal job radar: finds English-friendly roles in Switzerland and the Nether
 **Status:** live and open for public sign-up
 
 <!-- progress:job-hunt:start -->
-![progress](https://img.shields.io/badge/progress-91%25-2ea44f)
+![progress](https://img.shields.io/badge/progress-94%25-2ea44f)
 
-`▓▓▓▓▓▓▓▓▓░ 91% (87/96 tasks)`
+`▓▓▓▓▓▓▓▓▓░ 94% (90/96 tasks)`
 <!-- progress:job-hunt:end -->
 
 ### [PM AI System](https://github.com/Ydony/pm-ai-system-showcase)
@@ -27,9 +27,9 @@ An AI delivery team that plans, builds and reviews software tasks on its own, wh
 **Status:** in daily use on all of my projects
 
 <!-- progress:pm-ai-system:start -->
-![progress](https://img.shields.io/badge/progress-65%25-2ea44f)
+![progress](https://img.shields.io/badge/progress-92%25-2ea44f)
 
-`▓▓▓▓▓▓░░░░ 65% (48/74 tasks)`
+`▓▓▓▓▓▓▓▓▓░ 92% (68/74 tasks)`
 <!-- progress:pm-ai-system:end -->
 
 ### [Vehicle Transfer](https://github.com/Ydony/vehicle-transfer-showcase)
